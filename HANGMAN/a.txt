@@ -1,0 +1,20 @@
+if (sayac==0)
+                {
+                    a[0] = rastgele;
+                }
+                else if (sayac==1)
+                {
+                    a[1] = rastgele;
+                    while (true)
+                    {
+                        if (a[1]==a[0])
+                        {
+                            a[1]= aranan[rnd.Next(aranan.Length)];
+                        }
+                        else
+                        {
+                            rastgele = a[1];
+                            break;
+                        }
+                    }
+                }

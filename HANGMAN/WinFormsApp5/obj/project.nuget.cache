@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "82/O9uAvbNAr7s7I0Jr1iCxd1DbQZb2Cjv3lqEM+rE7dvnMep9zXxvCF2JYb73mCU6x6jhibwh7veKdVevYyeA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aking\\OneDrive\\Desktop\\WinFormsApp5\\WinFormsApp5\\WinFormsApp5.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aking\\.nuget\\packages\\metromodernui\\1.3.0\\metromodernui.1.3.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "'MetroModernUI 1.3.0' paketi, proje hedef çerçevesi '.NETCoreApp,Version=v3.1' yerine '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' kullanılarak geri yüklendi. Bu paket projenizle tamamen uyumlu olmayabilir.",
+      "libraryId": "MetroModernUI",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}
